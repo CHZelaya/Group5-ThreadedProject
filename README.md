@@ -2,6 +2,9 @@
 
 # Team Introduction
 
+Hey there team! Carlos here, looking forward to working with you!
+--> Fact about me: Paintball is my adrenaline rush!
+
 
 
 # Travel Experts Application
