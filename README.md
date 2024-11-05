@@ -4,6 +4,7 @@
 
 Hey there team! Carlos here, looking forward to working with you!
 --> Fact about me: Paintball is my adrenaline rush!
+Hi,I'm Daryl here.Hope everything goes well all the time.
 
 
 
