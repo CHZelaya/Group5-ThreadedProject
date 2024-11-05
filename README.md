@@ -14,6 +14,7 @@ Hi,I'm Daryl here.Hope everything goes well all the time.
 ## To Do List - Project Workshop 3 (Current Group Focus)
 
 ### Form 1: Travel Packages Management
+#### Assigned to : Daryl
 (✅ - Copy/paste the checkmark as you finish tasks) 
 - ❌ Implement CRUD functionality for travel packages.
 - ❌ Create a user-friendly interface for adding, editing, and deleting packages.
@@ -21,12 +22,14 @@ Hi,I'm Daryl here.Hope everything goes well all the time.
 - ❌ Implement search functionality to filter displayed packages.
 
 ### Form 2: Agents and Agencies Management
+#### Assigned to : Carlos
 (✅ - Copy/paste the checkmark as you finish tasks)
 - ❌ Create an admin user interface for managing agents and agencies.
 - ❌ Implement CRUD functionality for agents and agencies.
 - ❌ Add search functionality to filter agents and agencies displayed.
 
 ### Form 3: Products and Suppliers Management
+#### Assigned to : Sal
 (✅ - Copy/paste the checkmark as you finish tasks)
 - ❌ Develop a user interface for maintaining products and suppliers.
 - ❌ Implement CRUD functionality for products and suppliers.
@@ -34,6 +37,7 @@ Hi,I'm Daryl here.Hope everything goes well all the time.
 - ❌ Add search functionality to filter products and suppliers displayed.
 
 ### Validation Tasks
+#### Assigned to : Cantor
 (✅ - Copy/paste the checkmark as you finish tasks)
 - ❌ Implement data validation for travel packages:
   - Agency Commission cannot exceed Base Price.
