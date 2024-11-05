@@ -66,10 +66,10 @@ The application will utilize the following tables:
 ## Usage
 To use the application, launch the executable and navigate through the user interface to manage travel packages, agents, and agencies. Ensure that all required fields are filled out correctly to avoid validation errors.
 
-------------------------------------------------------------------------
+
 # Project Workshop 4 
-###(To be done after completion of Project Workshop 3)
-------------------------------------------------------------------------
+### (To be done after completion of Project Workshop 3)
+
 ## Customer Management System
 
 ### Summary
