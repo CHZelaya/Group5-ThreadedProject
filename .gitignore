@@ -1,2 +1,5 @@
 
 /.vs
+/**/bin
+/**/obj
+/WinForms/ProductSupplies/obj/ProductSupplies.csproj.nuget.dgspec.json
